@@ -7,17 +7,14 @@
 数据分析：Numpy + 统计模型
 可视化：Matplotlib + Pyecharts + WordCloud
 目录结构
-plaintext
+```plaintext
 .
 ├── code/              # 核心代码
-
 ├── data/              # 原始数据与处理后数据
-
 ├── docs/              # 分析报告与可视化结果
-
 ├── requirements.txt   # 环境依赖
-
 └── README.md          # 项目说明
+```
 快速开始
 1. 环境配置
 bash
