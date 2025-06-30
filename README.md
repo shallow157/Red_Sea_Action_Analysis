@@ -10,9 +10,13 @@
 plaintext
 .
 ├── code/              # 核心代码
+
 ├── data/              # 原始数据与处理后数据
+
 ├── docs/              # 分析报告与可视化结果
+
 ├── requirements.txt   # 环境依赖
+
 └── README.md          # 项目说明
 快速开始
 1. 环境配置
